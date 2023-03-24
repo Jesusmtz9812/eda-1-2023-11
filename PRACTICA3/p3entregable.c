@@ -5,7 +5,7 @@
     int x, y;
     int tablero[8][8];
     short opcion = 0;
-    
+    // estructura struc
     struct movimientos{
         int momientosCaballo;
         int movimientosAlfil;
