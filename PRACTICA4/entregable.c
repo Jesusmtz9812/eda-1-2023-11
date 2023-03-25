@@ -93,7 +93,7 @@
         }
 
         printf("Se libera espacio en la memoria");
-    free(arreglo);
+    free(memoriaTablero);
 
     }
 
